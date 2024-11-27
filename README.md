@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Data Science, Machine Learning Project**
 
-- 👨‍💻 All of my projects are available at [https://faheemkhanml.netlify.app/](https://faheemkhanml.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://faheemkhanml.netlify.app/](https://www.datascienceportfol.io/Faheem_Khan)
 
 - 💬 Ask me about **Python, Machine Learning, Data Analytics**
 
