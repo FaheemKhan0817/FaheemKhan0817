@@ -102,7 +102,7 @@
 
 ### 📬 Contact
 
-📞 **8279575494**  
+📞 **+918279575494**  
 📧 **faheemthakur23@gmail.com**  
 🔗 [LinkedIn](https://linkedin.com/in/faheemkhanml)  
 💼 [Portfolio](https://www.datascienceportfol.io/Faheem_Khan)
