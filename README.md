@@ -6,7 +6,7 @@
 <h3 align="center">🚀 Machine Learning Engineer | MLOps Enthusiast | Driving AI Innovation from India</h3>
 
 <p align="center">
-  <a href="https://www.datascienceportfol.io/Faheem_Khan" target="_blank">🌐 Portfolio</a> •
+  <a href="https://faheemkhandev.netlify.app/" target="_blank">🌐 Portfolio</a> •
   <a href="mailto:faheemthakur23@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/faheemkhanml/">🔗 LinkedIn</a> •
   <a href="https://github.com/FaheemKhan0817">💻 GitHub</a>
